@@ -1,2 +1,4 @@
 # demo-Managing-Information
-Manage Student Information
+Login account (from database)
+username:hieu
+password:123
